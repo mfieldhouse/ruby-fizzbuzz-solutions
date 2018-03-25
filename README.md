@@ -12,5 +12,5 @@ For the numbers 1 to 100:
 ## The Solutions
 
  - fizzbuzz-1.rb - **10 lines**
- - fizzbuzz-2.rb - **9 lines**
+ - fizzbuzz-2.rb - **7 lines**
 
