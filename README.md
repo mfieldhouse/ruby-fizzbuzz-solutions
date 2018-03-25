@@ -9,7 +9,7 @@ For the numbers 1 to 100:
  - If the number is divisable by both 3 and 5, print "FizzBuzz"
  - Else print the number
 
-## The Solution
+## The Solutions
 
  - fizzbuzz-1.rb - **10 lines**
  - fizzbuzz-2.rb - **9 lines**
